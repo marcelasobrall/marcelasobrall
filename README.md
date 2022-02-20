@@ -1,4 +1,8 @@
-## Olá! Eu sou a Marcela Sobral, criadora de conteúdo de programação e tecnologia!
+## Olá! Me chamo Marcela!✨
+
+💻- Desenvolvedora Front-End
+📚- Estudante de Engenharia de Software no Instituto Infnet
+📸- Nas horas vagas, contribuição com conhecimento no Instagram
 
 <div align="center">
   <a href="https://github.com/marcelasobrall">
