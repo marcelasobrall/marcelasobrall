@@ -1,7 +1,7 @@
 ## Olá! Me chamo Marcela!✨
 
-💻- Desenvolvedora Front-End
-📚- Estudante de Engenharia de Software no Instituto Infnet
+💻- Desenvolvedora Front-End<br>
+📚- Estudante de Engenharia de Software no Instituto Infnet<br>
 📸- Nas horas vagas, contribuição com conhecimento no Instagram
 
 <div align="center">
