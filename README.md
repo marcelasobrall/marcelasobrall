@@ -2,7 +2,7 @@
 
 💻- Desenvolvedora Front-End<br>
 📚- Estudante de Engenharia de Software no Instituto Infnet<br>
-📸- Nas horas vagas, contribuição com conhecimento no Instagram
+📔- Nas horas vagas, contribuição com conhecimento no Instagra
 
 <div align="center">
   <a href="https://github.com/marcelasobrall">
